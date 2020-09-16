@@ -1,3 +1,3 @@
 # gitskills
 gitskills
-ban Fast forward.
+ban Fast forward new.
